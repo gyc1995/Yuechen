@@ -7,6 +7,9 @@
 
 ## Education
 
+### FreeCodeCamp - Computer Software Engineering 
+* Full Stack Web Development Certification (2019/05 - )
+
 ### 九州大学 - 芸術工学修士課程 (2019/04 - 2021/03)
 
 ### 上海大学 - 工学学士 (2013/09 - 2018/06)
