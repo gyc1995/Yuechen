@@ -21,7 +21,7 @@
 
 ### Basic Skill
 
-* HTML/CSS/JavaScript/Java/Python/C
+* HTML/CSS/JavaScript/Java/Python/Matlab
 
 
 ## Introduction
